@@ -1,2 +1,2 @@
 # sample
-sample project for checking
+sample project
